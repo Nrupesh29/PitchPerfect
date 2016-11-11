@@ -22,14 +22,20 @@ class ViewController: UIViewController {
 
     @IBAction func recordAudio(_ sender: Any) {
         recordingLabel.text = "Recording audio"
+        stopRecordingButton.isEnabled = true
+        recordButton.isEnabled = false
     }
 
     @IBOutlet weak var recordingLabel: UILabel!
+    
     @IBAction func stopRecording(_ sender: Any) {
         recordingLabel.text = "Tap to record"
+        stopRecordingButton.isEnabled = false
+        recordButton.isEnabled = true
     }
     
     override func viewWillAppear(_ animated: Bool) {
+        stopRecordingButton.isEnabled = false
     }
     
     @IBOutlet weak var recordButton: UIButton!
