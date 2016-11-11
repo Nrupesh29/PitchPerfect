@@ -7,6 +7,9 @@ PitchPerfect is an iPhone app that will allow users to record their voice and wi
 
 ## Screens
 
+<img src="http://nrupeshpatel.com/PitchPerfect/GitHub/Images/PitchPerfectScreen%231.png" width="30%">
+<img src="http://nrupeshpatel.com/PitchPerfect/GitHub/Images/PitchPerfectScreen%232.png" width="30%">
+
 ## Sound Modulations
 
 1. Super Slow
