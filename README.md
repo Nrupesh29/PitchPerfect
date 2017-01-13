@@ -4,14 +4,14 @@
 [![platform](https://img.shields.io/badge/platform-iOS-orange.svg)]()
 
 
-<img src="http://nrupeshpatel.com/PitchPerfect/GitHub/Images/PitchPerfectLogo.png" width="8%" alt="Pitch Perfect Logo" align="left" />
+<img src="http://nrupeshpatel.com/Files/PitchPerfect/GitHub/Images/PitchPerfectLogo.png" width="8%" alt="Pitch Perfect Logo" align="left" />
          
 PitchPerfect is an iPhone app that will allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up or slow down the rate of playback.
 
 ## Screens
 
-<img src="http://nrupeshpatel.com/PitchPerfect/GitHub/Images/PitchPerfectScreen%231.png" width="30%">
-<img src="http://nrupeshpatel.com/PitchPerfect/GitHub/Images/PitchPerfectScreen%232.png" width="30%">
+<img src="http://nrupeshpatel.com/Files/PitchPerfect/GitHub/Images/PitchPerfectScreen%231.png" width="30%">
+<img src="http://nrupeshpatel.com/Files/PitchPerfect/GitHub/Images/PitchPerfectScreen%232.png" width="30%">
 
 ## Installation
 
